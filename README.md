@@ -7,7 +7,7 @@
 <p>Ferramenta de previsão do tempo, utilizando a API OpenWeatherMap</p>
 
 
-## Linguagens Usadas
+## Tecnologias Usadas
 - ✔️ HTML
 - ✔️ CSS
 - ✔️ JavaScript
