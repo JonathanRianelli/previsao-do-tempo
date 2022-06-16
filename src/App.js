@@ -1,6 +1,6 @@
 import { Fragment, useState, useEffect } from 'react';
 import axios from 'axios';
-import './scss/main.scss'; 
+import './scss/main.scss';
 
 export default function App() {
 
@@ -52,7 +52,7 @@ export default function App() {
           <div id='info'>
             <div id='clima'>
               <p id='temp'>{weather['main']['temp'].toFixed(1)}°</p>
-              <img src={'http://openweathermap.org/img/wn/'+img.slice(0, -1)+'d@2x.png'} alt="tempo" />
+              <img src={'http://openweathermap.org/img/wn/'+img.slice(0, -1)+'d@2x.png'} alt="tempo"/>
             </div>
             <ul id='info-g'>
                  <li>
