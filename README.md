@@ -9,7 +9,7 @@
 
 ## Tecnologias Usadas
 - ✔️ HTML
-- ✔️ CSS
+- ✔️ SCSS
 - ✔️ JavaScript
 - ✔️ React
 
